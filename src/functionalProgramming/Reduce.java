@@ -27,7 +27,4 @@ public class Reduce {
 		int n=addNumbersFromList(List.of(12,13,45,66,98));
 		System.out.println(n);
 	}
-
-
-
 }
