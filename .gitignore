@@ -1,0 +1,6 @@
+# to be ignored
+
+.classpath
+.project
+.settings/
+bin/
